@@ -2,7 +2,7 @@ Welcome to my profile:
 
 - 🔭 I’m currently working on medical imaging softwre solutions
 
-- 🌱 I’m currently learning cs50@harvard
+- 🌱 Currently learning cs50@harvard
 
 
 
