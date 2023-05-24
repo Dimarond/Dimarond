@@ -11,12 +11,6 @@ Toolf and Technologies:
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Dimarond&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimarond&theme=blue-green)
-
-
-
 
 
 
