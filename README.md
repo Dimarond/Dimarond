@@ -1,6 +1,6 @@
 Welcome to my profile:
 
-- 🔭 I’m currently working on medical imaging softwre solutions
+- 🔭 I’m currently working on medical imaging software solutions and data science tools
 
 - 🌱 Currently learning cs50@harvard
 
