@@ -2,7 +2,7 @@ Welcome to my profile :atom::
 
 - :dna:	 I’m currently working on medical imaging software solutions and data science tools 
 
-- 🌱 Currently learning cs50@harvard
+- 🌱 Currently learning Cybersecurity and Kaggle 
 
 
 
