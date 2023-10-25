@@ -1,8 +1,8 @@
-Welcome to my profile :atom::
+Welcome to my profile :atom: :
 
-- :dna:	 I’m currently working on medical imaging software solutions and data science tools 
+- 🧬 I’m currently working on medical imaging software solutions and data science tools 
 
-- 🌱 Currently learning Cybersecurity and Kaggle 
+- 📚🔬 "sudo apt update && apt upgrade Nuclear-Medicine | Kaggle | Cybersecurity@CS50  -y"
 
 
 
