@@ -2,7 +2,7 @@ Welcome to my profile :atom: :
 
 - 🧬 I’m currently working on medical imaging software solutions and data science tools 
 
-- 📚🔬 "sudo apt update && apt upgrade Nuclear-Medicine | Kaggle | Cybersecurity@CS50  -y"
+- 📚🔬 "sudo apt update && apt upgrade Medicine | Python | Big data | Cybersecurity -y"
 
 
 
